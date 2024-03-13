@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Peter and I`m developer // student.<br><br>- 📚 At present I`m studying at KemSU in the direction of Fundamental Infomatics and Information Technologies.<br>- ⚡ In my free time I'm learning new programming patterns and technologies.<br>- 🏀In addition to programming, I'm into sports and fishing)</p>
+<p align="left">My name is Peter and I`m backend-developer // student.<br><br>- 📚 At present I`m studying at KemSU in the direction of Fundamental Infomatics and Information Technologies.<br>- ⚡ In my free time I'm learning new programming patterns and technologies.<br>- 🏀In addition to programming, I'm into sports and fishing)</p>
 
 ###
 
