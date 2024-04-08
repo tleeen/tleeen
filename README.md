@@ -41,10 +41,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tleeen&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=15&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tleeen&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=15&order=3" height="180" alt="streak graph"  />
 </div>
-
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tleeen&theme=minimal&line=F05237&radius=15&hide_border=false&point=000000&bg_color=F7F7F7"></img>
 
 <h3 align="left">🔗  Socials</h3>
 
